@@ -157,6 +157,6 @@ Anyone exploring new topics
 
 # 👨‍💻 Developer
 
-Revan VR
-B.Tech CSE
+VR Revan
+B.Tech CSE - IOT
 AI/ML • Flask • Python • Modern Web Development • Competitive Programming
